@@ -18,7 +18,7 @@ The API is up and running!!
 
 <br>
 <br>
-Can provide any name in place of go-containerized and any port number in place of 9000.<br>
+Can provide any name in place of go-containerized and any port number in place of 9000.
 ```
 docker build . -t CONTAINERNAME:latest
 docker run -e PORT=PORTNUMBER -p PORTNUMBER:9000 CONTAINERNAME:latest
