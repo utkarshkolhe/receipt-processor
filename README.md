@@ -35,9 +35,9 @@ The Diagram above shows high level view of how the API components interact.
 ### Input validation
 Input Validation implemented in [Item_Model](/api/models/item_model.go) and [Receipt_Model](/api/models/receipt_model.go). <br>
 Types of input validation done:
-1. All fields (retailer, shortDescription, purchaseTime, purchaseDate, price, etc) follow their specified regex pattern as defined in [API_YML](/api.yml) . Can be updated in [Constants](/api/config/constants.go)
-2. total of receipts equals sum of prices of items in Receipts
-3. Receipt has at least MinItemsInReceipt(default=1) items. Can be updated in [Constants](/api/config/constants.go)
+1. All fields (retailer, shortDescription, purchaseTime, purchaseDate, price, etc) follow their specified regex pattern as defined in [API_YML](/api.yml) . Can be updated in [Constants](/api/config/constants.go).
+2. total of Receipt equals sum of prices of items in Receipt.
+3. Receipt has at least 1 item. Can be updated by editing MinItemsInReceipt in [Constants](/api/config/constants.go).
 
 ### Testing
 Testing automatically done while building docker image.<br>
@@ -46,11 +46,11 @@ If required, testing in Go can be manually triggered by running:
 go test ./...
 ```
 #### Unit testing
-Unit tests written for three modules in [ReceiptManagerTest](/api/db/receipt_manager_test.go), [IDGeneratorTest](/api/utils/id_generator_test.go) and [PointsCalculator](/api/utils/points_calculator_test.go)
+Unit tests written for three modules in [ReceiptManagerTest](/api/db/receipt_manager_test.go), [IDGeneratorTest](/api/utils/id_generator_test.go) and [PointsCalculatorTest](/api/utils/points_calculator_test.go)
 
 #### End to End testing
 End-To-End testing implemented in [MainTest](/main_test.go).
-Evaluates on 4 valid test cases and 5 invalid test cases [TestCases](/test/).
+Evaluates on 4 valid test cases and 5 invalid test cases. [TestCases](/test/).
 
 #### Manual testing
 You can send any other POST and GET requests on `localhost:9000/receipts/process` and `localhost:9000/receipts/__ID__/points` respectively.

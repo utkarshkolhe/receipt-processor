@@ -22,8 +22,8 @@ func TestJSON(t *testing.T) {
 	r.GET("/reciepts/:id/points", handlers.GetPoints)
 
 	pointMap := map[string]int{
-	    "Valid1": 28,
-	    "Valid2": 109,
+			"Valid1": 28,
+			"Valid2": 109,
 			"Valid3": 15,
 			"Valid4": 31,
 			"IncorrectSum":   -1, //total does not match sum of prices
@@ -31,8 +31,6 @@ func TestJSON(t *testing.T) {
 			"IncorrectTime":  -1, //Invalid Time format
 			"IncorrectTotal": -1, //Total not in valid format
 			"IncorrectPrice": -1, //Item Price not in valid format
-
-
 	}
 	for fileName, expectedPoints := range pointMap {
 		// Open the test JSON file
