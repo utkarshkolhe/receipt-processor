@@ -29,9 +29,9 @@ docker run -e PORT=PORTNUMBER -p PORTNUMBER:9000 CONTAINERNAME:latest
 ## Input validation
 Input Validation implemented in [Item_Model](/api/models/item_model.go) and [Receipt_Model](/api/models/receipt_model.go).
 Types of input validation done:
-1. All fields retailer, description, time, date and prices follow their specified regex pattern as defined in [API_YML](/api.yml) . Can be updated in [Constants](/api/config/constants.go)
+1. All fields (retailer, shortDescription, purchaseTime, purchaseDate, price, etc) follow their specified regex pattern as defined in [API_YML](/api.yml) . Can be updated in [Constants](/api/config/constants.go)
 2. total of receipts equals sum of prices of items in Receipts
-3. Receipts has MinItemsInReceipt(default=1) items. Can be updated in [Constants](/api/config/constants.go)
+3. Receipt has MinItemsInReceipt(default=1) items. Can be updated in [Constants](/api/config/constants.go)
 
 ## Testing
 Testing automatically done while building docker image.
