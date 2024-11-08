@@ -1,0 +1,345 @@
+2024/11/07 18:41:49 INFO: main.go:17 - Application Started
+2024/11/07 18:41:49 INFO: main.go:23 - Routes Initialized
+2024/11/07 18:42:16 INFO: process_receipts.go:16 - Called process receipt API
+2024/11/07 18:42:16 INFO: process_receipts.go:51 - Returned process receipt APIIPh18njf-CPLK-CVPX-rJBJ-x7GpfZ913jtU
+2024/11/07 18:42:55 INFO: main.go:17 - Application Started
+2024/11/07 18:42:55 INFO: main.go:23 - Routes Initialized
+2024/11/07 18:42:59 INFO: process_receipts.go:16 - Called process receipt API
+2024/11/07 18:42:59 INFO: process_receipts.go:51 - Returned process receipt API : h0xT7CfJ-TgwY-22zY-Qd6I-TGZNiodSSwpN
+2024/11/07 18:43:14 INFO: get_points.go:18 - Called getPoints API:h0xT7CfJ-TgwY-22zY-Qd6I-TGZNiodSSwpN
+2024/11/07 18:43:14 INFO: get_points.go:38 - Returned getPoints API:h0xT7CfJ-TgwY-22zY-Qd6I-TGZNiodSSwpN:28
+2024/11/07 18:50:25 INFO: process_receipts.go:16 - Called process receipt API
+2024/11/07 18:50:25 INFO: process_receipts.go:51 - Returned process receipt API : qQtX8WMT-2dZA-GLyq-ijRX-BVP0vlZhWxu9
+2024/11/07 18:50:25 INFO: get_points.go:18 - Called getPoints API:qQtX8WMT-2dZA-GLyq-ijRX-BVP0vlZhWxu9
+2024/11/07 18:50:25 INFO: get_points.go:38 - Returned getPoints API:qQtX8WMT-2dZA-GLyq-ijRX-BVP0vlZhWxu9:28
+2024/11/07 18:50:57 INFO: process_receipts.go:16 - Called process receipt API
+2024/11/07 18:50:57 INFO: process_receipts.go:51 - Returned process receipt API : mScwKSsV-MFKF-soy2-1LDi-VnEnVp6EsG74
+2024/11/07 18:50:57 INFO: get_points.go:18 - Called getPoints API:mScwKSsV-MFKF-soy2-1LDi-VnEnVp6EsG74
+2024/11/07 18:50:57 INFO: get_points.go:38 - Returned getPoints API:mScwKSsV-MFKF-soy2-1LDi-VnEnVp6EsG74:28
+2024/11/07 18:56:53 INFO: process_receipts.go:16 - Called process receipt API
+2024/11/07 18:56:53 INFO: process_receipts.go:51 - Returned process receipt API : ALX8u0Zy-Q5I6-GwHU-mUrb-g5k3ZRsSvlkD
+2024/11/07 18:56:53 INFO: get_points.go:18 - Called getPoints API:ALX8u0Zy-Q5I6-GwHU-mUrb-g5k3ZRsSvlkD
+2024/11/07 18:56:53 INFO: get_points.go:38 - Returned getPoints API:ALX8u0Zy-Q5I6-GwHU-mUrb-g5k3ZRsSvlkD:28
+2024/11/07 18:58:24 INFO: process_receipts.go:16 - Called process receipt API
+2024/11/07 18:58:24 INFO: process_receipts.go:51 - Returned process receipt API : 4nzYOCoJ-Qrs4-N8OI-njo2-ICa5s2VNHgcr
+2024/11/07 18:58:24 INFO: get_points.go:18 - Called getPoints API:4nzYOCoJ-Qrs4-N8OI-njo2-ICa5s2VNHgcr
+2024/11/07 18:58:24 INFO: get_points.go:38 - Returned getPoints API:4nzYOCoJ-Qrs4-N8OI-njo2-ICa5s2VNHgcr:28
+2024/11/07 19:01:48 INFO: process_receipts.go:16 - Called process receipt API
+2024/11/07 19:01:48 INFO: process_receipts.go:51 - Returned process receipt API : zvYZgjiB-73RY-IuDU-KDRK-95EKP8C0BHZl
+2024/11/07 19:01:48 INFO: get_points.go:18 - Called getPoints API:zvYZgjiB-73RY-IuDU-KDRK-95EKP8C0BHZl
+2024/11/07 19:01:48 INFO: get_points.go:38 - Returned getPoints API:zvYZgjiB-73RY-IuDU-KDRK-95EKP8C0BHZl:28
+2024/11/07 19:02:12 INFO: process_receipts.go:16 - Called process receipt API
+2024/11/07 19:02:12 INFO: process_receipts.go:51 - Returned process receipt API : YQQyO9sj-4D3B-k6g5-htot-CWNJ9DnMW1xF
+2024/11/07 19:02:12 INFO: get_points.go:18 - Called getPoints API:YQQyO9sj-4D3B-k6g5-htot-CWNJ9DnMW1xF
+2024/11/07 19:02:12 INFO: get_points.go:38 - Returned getPoints API:YQQyO9sj-4D3B-k6g5-htot-CWNJ9DnMW1xF:28
+2024/11/07 19:04:10 INFO: process_receipts.go:16 - Called process receipt API
+2024/11/07 19:04:10 INFO: process_receipts.go:51 - Returned process receipt API : xMvMfYpw-zxNY-etou-niNL-WYaMjihatfHj
+2024/11/07 19:04:10 INFO: get_points.go:18 - Called getPoints API:xMvMfYpw-zxNY-etou-niNL-WYaMjihatfHj
+2024/11/07 19:04:10 INFO: get_points.go:38 - Returned getPoints API:xMvMfYpw-zxNY-etou-niNL-WYaMjihatfHj:28
+2024/11/07 19:04:53 INFO: process_receipts.go:16 - Called process receipt API
+2024/11/07 19:04:53 INFO: process_receipts.go:51 - Returned process receipt API : 4H7wgO4P-kPFN-Gp4n-nwgW-LbnJVqarKKn1
+2024/11/07 19:04:53 INFO: get_points.go:18 - Called getPoints API:4H7wgO4P-kPFN-Gp4n-nwgW-LbnJVqarKKn1
+2024/11/07 19:04:53 INFO: get_points.go:38 - Returned getPoints API:4H7wgO4P-kPFN-Gp4n-nwgW-LbnJVqarKKn1:28
+2024/11/07 19:57:28 INFO: process_receipts.go:16 - Called process receipt API
+2024/11/07 19:57:28 INFO: process_receipts.go:51 - Returned process receipt API : 157as8HP-oc8Y-leo5-rQtz-9Lj1gsLcTK24
+2024/11/07 19:57:28 INFO: get_points.go:18 - Called getPoints API:157as8HP-oc8Y-leo5-rQtz-9Lj1gsLcTK24
+2024/11/07 19:57:28 INFO: get_points.go:38 - Returned getPoints API:157as8HP-oc8Y-leo5-rQtz-9Lj1gsLcTK24:28
+2024/11/07 19:58:06 INFO: process_receipts.go:16 - Called process receipt API
+2024/11/07 19:58:06 INFO: process_receipts.go:51 - Returned process receipt API : 0M6q8QTg-i4pz-nDJp-K4PO-IrEEKZWhFokg
+2024/11/07 19:58:06 INFO: get_points.go:18 - Called getPoints API:0M6q8QTg-i4pz-nDJp-K4PO-IrEEKZWhFokg
+2024/11/07 19:58:06 INFO: get_points.go:38 - Returned getPoints API:0M6q8QTg-i4pz-nDJp-K4PO-IrEEKZWhFokg:28
+2024/11/07 20:06:26 INFO: process_receipts.go:16 - Called process receipt API
+2024/11/07 20:06:26 INFO: process_receipts.go:51 - Returned process receipt API : DihzMtEK-ptvn-diH0-5Zh0-X9hfzZkOJYt0
+2024/11/07 20:06:26 INFO: get_points.go:18 - Called getPoints API:DihzMtEK-ptvn-diH0-5Zh0-X9hfzZkOJYt0
+2024/11/07 20:06:26 INFO: get_points.go:38 - Returned getPoints API:DihzMtEK-ptvn-diH0-5Zh0-X9hfzZkOJYt0:28
+2024/11/07 20:06:26 INFO: process_receipts.go:16 - Called process receipt API
+2024/11/07 20:06:26 INFO: process_receipts.go:51 - Returned process receipt API : K3EmLAaH-Rf1b-maP4-jva9-IM7Jbmcw5uP2
+2024/11/07 20:06:26 INFO: get_points.go:18 - Called getPoints API:K3EmLAaH-Rf1b-maP4-jva9-IM7Jbmcw5uP2
+2024/11/07 20:06:26 INFO: get_points.go:38 - Returned getPoints API:K3EmLAaH-Rf1b-maP4-jva9-IM7Jbmcw5uP2:109
+2024/11/07 20:06:44 INFO: main.go:17 - Application Started
+2024/11/07 20:06:44 INFO: main.go:23 - Routes Initialized
+2024/11/07 20:07:12 INFO: process_receipts.go:16 - Called process receipt API
+2024/11/07 20:07:12 INFO: process_receipts.go:51 - Returned process receipt API : 2MI5274G-uhEE-8MmO-GOWu-9rPOin0F94F6
+2024/11/07 20:07:30 INFO: get_points.go:18 - Called getPoints API:2MI5274G-uhEE-8MmO-GOWu-9rPOin0F94F6
+2024/11/07 20:07:30 INFO: get_points.go:38 - Returned getPoints API:2MI5274G-uhEE-8MmO-GOWu-9rPOin0F94F6:15
+2024/11/07 20:09:09 INFO: process_receipts.go:16 - Called process receipt API
+2024/11/07 20:09:09 INFO: process_receipts.go:51 - Returned process receipt API : 3gzf73Js-ez6G-OKaO-eJV8-3FIaMwE52Mes
+2024/11/07 20:09:20 INFO: get_points.go:18 - Called getPoints API:3gzf73Js-ez6G-OKaO-eJV8-3FIaMwE52Mes
+2024/11/07 20:09:20 INFO: get_points.go:38 - Returned getPoints API:3gzf73Js-ez6G-OKaO-eJV8-3FIaMwE52Mes:31
+2024/11/07 20:10:59 INFO: process_receipts.go:16 - Called process receipt API
+2024/11/07 20:10:59 ERROR: process_receipts.go:29 - purchaseDate must be in YYYY-MM-DD format
+2024/11/07 20:11:11 INFO: process_receipts.go:16 - Called process receipt API
+2024/11/07 20:11:11 ERROR: process_receipts.go:29 - purchaseTime must be in HH:MM 24-hour format
+2024/11/07 20:11:21 INFO: process_receipts.go:16 - Called process receipt API
+2024/11/07 20:11:21 ERROR: process_receipts.go:29 - shortDescription of Item does not match expected pattern
+2024/11/07 20:11:30 INFO: process_receipts.go:16 - Called process receipt API
+2024/11/07 20:11:30 ERROR: process_receipts.go:29 - price of each item must match currency format: xx.xx
+2024/11/07 20:11:39 INFO: process_receipts.go:16 - Called process receipt API
+2024/11/07 20:11:39 ERROR: process_receipts.go:29 - total does not match the sum of item prices
+2024/11/07 20:12:03 INFO: process_receipts.go:16 - Called process receipt API
+2024/11/07 20:12:03 ERROR: process_receipts.go:29 - total does not match the sum of item prices
+2024/11/07 20:12:03 INFO: process_receipts.go:16 - Called process receipt API
+2024/11/07 20:12:03 ERROR: process_receipts.go:29 - purchaseDate must be in YYYY-MM-DD format
+2024/11/07 20:12:03 INFO: process_receipts.go:16 - Called process receipt API
+2024/11/07 20:12:03 INFO: process_receipts.go:51 - Returned process receipt API : ZeYGmQhi-goqP-SIxf-cvxi-WagjFDaFVGmO
+2024/11/07 20:12:03 INFO: get_points.go:18 - Called getPoints API:ZeYGmQhi-goqP-SIxf-cvxi-WagjFDaFVGmO
+2024/11/07 20:12:03 INFO: get_points.go:38 - Returned getPoints API:ZeYGmQhi-goqP-SIxf-cvxi-WagjFDaFVGmO:28
+2024/11/07 20:12:03 INFO: process_receipts.go:16 - Called process receipt API
+2024/11/07 20:12:03 INFO: process_receipts.go:51 - Returned process receipt API : tHAS2l3s-0400-w1RY-1Bym-rB7UJ1gFmlPU
+2024/11/07 20:12:03 INFO: get_points.go:18 - Called getPoints API:tHAS2l3s-0400-w1RY-1Bym-rB7UJ1gFmlPU
+2024/11/07 20:12:03 INFO: get_points.go:38 - Returned getPoints API:tHAS2l3s-0400-w1RY-1Bym-rB7UJ1gFmlPU:109
+2024/11/07 20:12:03 INFO: process_receipts.go:16 - Called process receipt API
+2024/11/07 20:12:03 INFO: process_receipts.go:51 - Returned process receipt API : y8wM6eMr-evF4-xuEl-E0IT-qretK8bAfkWL
+2024/11/07 20:12:03 INFO: get_points.go:18 - Called getPoints API:y8wM6eMr-evF4-xuEl-E0IT-qretK8bAfkWL
+2024/11/07 20:12:03 INFO: get_points.go:38 - Returned getPoints API:y8wM6eMr-evF4-xuEl-E0IT-qretK8bAfkWL:15
+2024/11/07 20:12:03 INFO: process_receipts.go:16 - Called process receipt API
+2024/11/07 20:12:03 INFO: process_receipts.go:51 - Returned process receipt API : Xka5zjo8-lS4C-Vz25-spnP-uQuZVyTx7Hh4
+2024/11/07 20:12:03 INFO: get_points.go:18 - Called getPoints API:Xka5zjo8-lS4C-Vz25-spnP-uQuZVyTx7Hh4
+2024/11/07 20:12:03 INFO: get_points.go:38 - Returned getPoints API:Xka5zjo8-lS4C-Vz25-spnP-uQuZVyTx7Hh4:31
+2024/11/07 20:22:12 INFO: process_receipts.go:17 - Called process receipt API
+2024/11/07 20:22:12 INFO: process_receipts.go:48 - Points Callulated : DYKGOV5A-EDJG-hqYe-BwY6-kvdSYbNqrbBz : 109
+2024/11/07 20:22:12 INFO: process_receipts.go:64 - Returned process receipt API : DYKGOV5A-EDJG-hqYe-BwY6-kvdSYbNqrbBz
+2024/11/07 20:22:12 INFO: get_points.go:17 - Called getPoints API:DYKGOV5A-EDJG-hqYe-BwY6-kvdSYbNqrbBz
+2024/11/07 20:22:12 INFO: get_points.go:32 - Returned getPoints API:DYKGOV5A-EDJG-hqYe-BwY6-kvdSYbNqrbBz:109
+2024/11/07 20:22:12 INFO: process_receipts.go:17 - Called process receipt API
+2024/11/07 20:22:12 INFO: process_receipts.go:48 - Points Callulated : 0V9Nmr9H-cLzM-1cRK-ocxh-02yEcYjgWZab : 15
+2024/11/07 20:22:12 INFO: process_receipts.go:64 - Returned process receipt API : 0V9Nmr9H-cLzM-1cRK-ocxh-02yEcYjgWZab
+2024/11/07 20:22:12 INFO: get_points.go:17 - Called getPoints API:0V9Nmr9H-cLzM-1cRK-ocxh-02yEcYjgWZab
+2024/11/07 20:22:12 INFO: get_points.go:32 - Returned getPoints API:0V9Nmr9H-cLzM-1cRK-ocxh-02yEcYjgWZab:15
+2024/11/07 20:22:12 INFO: process_receipts.go:17 - Called process receipt API
+2024/11/07 20:22:12 INFO: process_receipts.go:48 - Points Callulated : R8gvXbwO-CNzt-Z6Uy-54ME-QWOZKaAAnh00 : 31
+2024/11/07 20:22:12 INFO: process_receipts.go:64 - Returned process receipt API : R8gvXbwO-CNzt-Z6Uy-54ME-QWOZKaAAnh00
+2024/11/07 20:22:12 INFO: get_points.go:17 - Called getPoints API:R8gvXbwO-CNzt-Z6Uy-54ME-QWOZKaAAnh00
+2024/11/07 20:22:12 INFO: get_points.go:32 - Returned getPoints API:R8gvXbwO-CNzt-Z6Uy-54ME-QWOZKaAAnh00:31
+2024/11/07 20:22:12 INFO: process_receipts.go:17 - Called process receipt API
+2024/11/07 20:22:12 ERROR: process_receipts.go:30 - total does not match the sum of item prices
+2024/11/07 20:22:12 INFO: process_receipts.go:17 - Called process receipt API
+2024/11/07 20:22:12 ERROR: process_receipts.go:30 - purchaseDate must be in YYYY-MM-DD format
+2024/11/07 20:22:12 INFO: process_receipts.go:17 - Called process receipt API
+2024/11/07 20:22:12 INFO: process_receipts.go:48 - Points Callulated : L2wHDKVI-nht6-UdR8-NYs3-17YBZyRhy14F : 28
+2024/11/07 20:22:12 INFO: process_receipts.go:64 - Returned process receipt API : L2wHDKVI-nht6-UdR8-NYs3-17YBZyRhy14F
+2024/11/07 20:22:12 INFO: get_points.go:17 - Called getPoints API:L2wHDKVI-nht6-UdR8-NYs3-17YBZyRhy14F
+2024/11/07 20:22:12 INFO: get_points.go:32 - Returned getPoints API:L2wHDKVI-nht6-UdR8-NYs3-17YBZyRhy14F:28
+2024/11/07 20:22:18 INFO: main.go:17 - Application Started
+2024/11/07 20:22:18 INFO: main.go:23 - Routes Initialized
+2024/11/07 20:22:48 INFO: process_receipts.go:17 - Called process receipt API
+2024/11/07 20:22:48 INFO: process_receipts.go:48 - Points Callulated : 0bPHHwoO-pGe3-N1sC-8CMd-2hTZjN7MWA1K : 28
+2024/11/07 20:22:48 INFO: process_receipts.go:64 - Returned process receipt API : 0bPHHwoO-pGe3-N1sC-8CMd-2hTZjN7MWA1K
+2024/11/07 20:23:08 INFO: get_points.go:17 - Called getPoints API:0bPHHwoO-pGe3-N1sC-8CMd-2hTZjN7MWA1K
+2024/11/07 20:23:08 INFO: get_points.go:32 - Returned getPoints API:0bPHHwoO-pGe3-N1sC-8CMd-2hTZjN7MWA1K:28
+2024/11/07 20:23:21 INFO: get_points.go:17 - Called getPoints API:0bPHHwoO-pGe3-N1sC-8CMd-2hTZjN7MWA1K
+2024/11/07 20:23:21 INFO: get_points.go:32 - Returned getPoints API:0bPHHwoO-pGe3-N1sC-8CMd-2hTZjN7MWA1K:28
+2024/11/07 20:23:28 INFO: get_points.go:17 - Called getPoints API:0bPHHwoO-pGe3-N1sC-8CMd-2hTZjN7MWA1K
+2024/11/07 20:23:28 INFO: get_points.go:32 - Returned getPoints API:0bPHHwoO-pGe3-N1sC-8CMd-2hTZjN7MWA1K:28
+2024/11/07 20:23:29 INFO: get_points.go:17 - Called getPoints API:0bPHHwoO-pGe3-N1sC-8CMd-2hTZjN7MWA1K
+2024/11/07 20:23:29 INFO: get_points.go:32 - Returned getPoints API:0bPHHwoO-pGe3-N1sC-8CMd-2hTZjN7MWA1K:28
+2024/11/07 20:23:29 INFO: get_points.go:17 - Called getPoints API:0bPHHwoO-pGe3-N1sC-8CMd-2hTZjN7MWA1K
+2024/11/07 20:23:29 INFO: get_points.go:32 - Returned getPoints API:0bPHHwoO-pGe3-N1sC-8CMd-2hTZjN7MWA1K:28
+2024/11/07 20:23:30 INFO: get_points.go:17 - Called getPoints API:0bPHHwoO-pGe3-N1sC-8CMd-2hTZjN7MWA1K
+2024/11/07 20:23:30 INFO: get_points.go:32 - Returned getPoints API:0bPHHwoO-pGe3-N1sC-8CMd-2hTZjN7MWA1K:28
+2024/11/07 20:23:31 INFO: get_points.go:17 - Called getPoints API:0bPHHwoO-pGe3-N1sC-8CMd-2hTZjN7MWA1K
+2024/11/07 20:23:31 INFO: get_points.go:32 - Returned getPoints API:0bPHHwoO-pGe3-N1sC-8CMd-2hTZjN7MWA1K:28
+2024/11/07 20:23:34 INFO: get_points.go:17 - Called getPoints API:0bPHHwoO-pGe3-N1sC-8CMd-2hTZjN7MWA1K
+2024/11/07 20:23:34 INFO: get_points.go:32 - Returned getPoints API:0bPHHwoO-pGe3-N1sC-8CMd-2hTZjN7MWA1K:28
+2024/11/07 20:23:37 INFO: get_points.go:17 - Called getPoints API:0bPHHwoO-pGe3-N1sC-8CMd-2hTZjN7MWA1K
+2024/11/07 20:23:37 INFO: get_points.go:32 - Returned getPoints API:0bPHHwoO-pGe3-N1sC-8CMd-2hTZjN7MWA1K:28
+2024/11/07 20:23:38 INFO: get_points.go:17 - Called getPoints API:0bPHHwoO-pGe3-N1sC-8CMd-2hTZjN7MWA1K
+2024/11/07 20:23:38 INFO: get_points.go:32 - Returned getPoints API:0bPHHwoO-pGe3-N1sC-8CMd-2hTZjN7MWA1K:28
+2024/11/07 20:23:40 INFO: get_points.go:17 - Called getPoints API:0bPHHwoO-pGe3-N1sC-8CMd-2hTZjN7MWA1K
+2024/11/07 20:23:40 INFO: get_points.go:32 - Returned getPoints API:0bPHHwoO-pGe3-N1sC-8CMd-2hTZjN7MWA1K:28
+2024/11/07 20:23:40 INFO: get_points.go:17 - Called getPoints API:0bPHHwoO-pGe3-N1sC-8CMd-2hTZjN7MWA1K
+2024/11/07 20:23:40 INFO: get_points.go:32 - Returned getPoints API:0bPHHwoO-pGe3-N1sC-8CMd-2hTZjN7MWA1K:28
+2024/11/07 20:23:42 INFO: get_points.go:17 - Called getPoints API:0bPHHwoO-pGe3-N1sC-8CMd-2hTZjN7MWA1K
+2024/11/07 20:23:42 INFO: get_points.go:32 - Returned getPoints API:0bPHHwoO-pGe3-N1sC-8CMd-2hTZjN7MWA1K:28
+2024/11/07 20:23:44 INFO: get_points.go:17 - Called getPoints API:0bPHHwoO-pGe3-N1sC-8CMd-2hTZjN7MWA1K
+2024/11/07 20:23:44 INFO: get_points.go:32 - Returned getPoints API:0bPHHwoO-pGe3-N1sC-8CMd-2hTZjN7MWA1K:28
+2024/11/07 20:23:50 INFO: process_receipts.go:17 - Called process receipt API
+2024/11/07 20:23:50 INFO: process_receipts.go:48 - Points Callulated : m8rEM0xk-chiN-jhSy-LMc8-Pn2bVXu1VKeA : 28
+2024/11/07 20:23:50 INFO: process_receipts.go:64 - Returned process receipt API : m8rEM0xk-chiN-jhSy-LMc8-Pn2bVXu1VKeA
+2024/11/07 20:23:51 INFO: process_receipts.go:17 - Called process receipt API
+2024/11/07 20:23:51 INFO: process_receipts.go:48 - Points Callulated : 7TlJ9v62-Bu57-Cwr9-qPSV-eRVB9fR5empg : 28
+2024/11/07 20:23:51 INFO: process_receipts.go:64 - Returned process receipt API : 7TlJ9v62-Bu57-Cwr9-qPSV-eRVB9fR5empg
+2024/11/07 20:23:52 INFO: process_receipts.go:17 - Called process receipt API
+2024/11/07 20:23:52 INFO: process_receipts.go:48 - Points Callulated : JKVPPKsg-isFG-iXPY-4QIa-Ai54XavCsXNP : 28
+2024/11/07 20:23:52 INFO: process_receipts.go:64 - Returned process receipt API : JKVPPKsg-isFG-iXPY-4QIa-Ai54XavCsXNP
+2024/11/07 20:23:52 INFO: process_receipts.go:17 - Called process receipt API
+2024/11/07 20:23:52 INFO: process_receipts.go:48 - Points Callulated : dXCJMhV3-4iPE-ECsC-YErb-N6VZfc1XHHLd : 28
+2024/11/07 20:23:52 INFO: process_receipts.go:64 - Returned process receipt API : dXCJMhV3-4iPE-ECsC-YErb-N6VZfc1XHHLd
+2024/11/07 20:23:53 INFO: process_receipts.go:17 - Called process receipt API
+2024/11/07 20:23:53 INFO: process_receipts.go:48 - Points Callulated : 8OICW4uO-7hPI-viJ5-9F0J-wyuTo7vYjOua : 28
+2024/11/07 20:23:53 INFO: process_receipts.go:64 - Returned process receipt API : 8OICW4uO-7hPI-viJ5-9F0J-wyuTo7vYjOua
+2024/11/07 20:23:54 INFO: process_receipts.go:17 - Called process receipt API
+2024/11/07 20:23:54 INFO: process_receipts.go:48 - Points Callulated : BkeaPeee-PEan-klXM-kPGV-8lTmMFZFUfOt : 28
+2024/11/07 20:23:54 INFO: process_receipts.go:64 - Returned process receipt API : BkeaPeee-PEan-klXM-kPGV-8lTmMFZFUfOt
+2024/11/07 20:23:55 INFO: process_receipts.go:17 - Called process receipt API
+2024/11/07 20:23:55 INFO: process_receipts.go:48 - Points Callulated : DaBw0JoC-FFPV-s0zZ-cthn-WTbbl2lMAvg0 : 28
+2024/11/07 20:23:55 INFO: process_receipts.go:64 - Returned process receipt API : DaBw0JoC-FFPV-s0zZ-cthn-WTbbl2lMAvg0
+2024/11/07 20:23:55 INFO: process_receipts.go:17 - Called process receipt API
+2024/11/07 20:23:55 INFO: process_receipts.go:48 - Points Callulated : NU5gaB1S-qaP2-OOQ3-zmJz-kLKtO6wZdyIZ : 28
+2024/11/07 20:23:55 INFO: process_receipts.go:64 - Returned process receipt API : NU5gaB1S-qaP2-OOQ3-zmJz-kLKtO6wZdyIZ
+2024/11/07 20:23:55 INFO: process_receipts.go:17 - Called process receipt API
+2024/11/07 20:23:55 INFO: process_receipts.go:48 - Points Callulated : 82cNRbZC-gv86-6A7Y-peGb-yDXqRIJtBwAq : 28
+2024/11/07 20:23:55 INFO: process_receipts.go:64 - Returned process receipt API : 82cNRbZC-gv86-6A7Y-peGb-yDXqRIJtBwAq
+2024/11/07 20:25:40 INFO: get_points.go:17 - Called getPoints API:0bPHHwoO-pGe3-N1oC-8CMd-2hTZjN7MWA1K
+2024/11/07 20:25:40 ERROR: get_points.go:24 - Receipt not found:0bPHHwoO-pGe3-N1oC-8CMd-2hTZjN7MWA1K
+2024/11/07 20:29:23 INFO: process_receipts.go:17 - Called process receipt API
+2024/11/07 20:29:23 INFO: process_receipts.go:48 - Points Callulated : yduGXy4v-lCNc-ghcE-KxGn-Ypm14zYsYv4O : 28
+2024/11/07 20:29:23 INFO: process_receipts.go:64 - Returned process receipt API : yduGXy4v-lCNc-ghcE-KxGn-Ypm14zYsYv4O
+2024/11/07 20:31:37 INFO: process_receipts.go:17 - Called process receipt API
+2024/11/07 20:31:37 INFO: process_receipts.go:48 - Points Callulated : 9P7E2MQx-Se4q-t6Hv-GiIB-flPgIb6e1qWx : 28
+2024/11/07 20:31:37 INFO: process_receipts.go:64 - Returned process receipt API : 9P7E2MQx-Se4q-t6Hv-GiIB-flPgIb6e1qWx
+2024/11/07 20:31:44 INFO: main.go:17 - Application Started
+2024/11/07 20:31:44 INFO: main.go:23 - Routes Initialized
+2024/11/07 20:31:48 INFO: process_receipts.go:17 - Called process receipt API
+2024/11/07 20:31:48 INFO: process_receipts.go:48 - Points Callulated : YdsgVo9V-wd5m-cMIv-lLXT-YbEWgn6n76U9 : 28
+2024/11/07 20:31:48 INFO: process_receipts.go:64 - Returned process receipt API : YdsgVo9V-wd5m-cMIv-lLXT-YbEWgn6n76U9
+2024/11/07 20:31:49 INFO: process_receipts.go:17 - Called process receipt API
+2024/11/07 20:31:49 INFO: process_receipts.go:48 - Points Callulated : nhyx9qbo-lw5A-FJSc-urnN-qZTwAHIbT3Zb : 28
+2024/11/07 20:31:49 INFO: process_receipts.go:64 - Returned process receipt API : nhyx9qbo-lw5A-FJSc-urnN-qZTwAHIbT3Zb
+2024/11/07 20:31:50 INFO: process_receipts.go:17 - Called process receipt API
+2024/11/07 20:31:50 INFO: process_receipts.go:48 - Points Callulated : MDAf6Ecy-MYzn-PWc8-2qbp-YIgpk2H1uxmF : 28
+2024/11/07 20:31:50 INFO: process_receipts.go:64 - Returned process receipt API : MDAf6Ecy-MYzn-PWc8-2qbp-YIgpk2H1uxmF
+2024/11/07 20:53:05 INFO: process_receipts.go:17 - Called process receipt API
+2024/11/07 20:53:05 ERROR: process_receipts.go:30 - total does not match the sum of item prices
+2024/11/07 20:53:05 INFO: process_receipts.go:17 - Called process receipt API
+2024/11/07 20:53:05 ERROR: process_receipts.go:30 - purchaseDate must be in YYYY-MM-DD format
+2024/11/07 20:53:05 INFO: process_receipts.go:17 - Called process receipt API
+2024/11/07 20:53:05 INFO: process_receipts.go:48 - Points Callulated : h36XS9bn-Oxwg-xamc-jyQl-Tl96n9DXLveP : 28
+2024/11/07 20:53:05 INFO: process_receipts.go:64 - Returned process receipt API : h36XS9bn-Oxwg-xamc-jyQl-Tl96n9DXLveP
+2024/11/07 20:53:05 INFO: get_points.go:17 - Called getPoints API:h36XS9bn-Oxwg-xamc-jyQl-Tl96n9DXLveP
+2024/11/07 20:53:05 INFO: get_points.go:32 - Returned getPoints API:h36XS9bn-Oxwg-xamc-jyQl-Tl96n9DXLveP:28
+2024/11/07 20:53:05 INFO: process_receipts.go:17 - Called process receipt API
+2024/11/07 20:53:05 INFO: process_receipts.go:48 - Points Callulated : EsRaoowr-j4Uo-aA19-KzsV-oWcfFNeaJglK : 109
+2024/11/07 20:53:05 INFO: process_receipts.go:64 - Returned process receipt API : EsRaoowr-j4Uo-aA19-KzsV-oWcfFNeaJglK
+2024/11/07 20:53:05 INFO: get_points.go:17 - Called getPoints API:EsRaoowr-j4Uo-aA19-KzsV-oWcfFNeaJglK
+2024/11/07 20:53:05 INFO: get_points.go:32 - Returned getPoints API:EsRaoowr-j4Uo-aA19-KzsV-oWcfFNeaJglK:109
+2024/11/07 20:53:05 INFO: process_receipts.go:17 - Called process receipt API
+2024/11/07 20:53:05 INFO: process_receipts.go:48 - Points Callulated : beXw0vx4-Iq2V-KF3J-cyGp-8bVRxwdp4oR2 : 15
+2024/11/07 20:53:05 INFO: process_receipts.go:64 - Returned process receipt API : beXw0vx4-Iq2V-KF3J-cyGp-8bVRxwdp4oR2
+2024/11/07 20:53:05 INFO: get_points.go:17 - Called getPoints API:beXw0vx4-Iq2V-KF3J-cyGp-8bVRxwdp4oR2
+2024/11/07 20:53:05 INFO: get_points.go:32 - Returned getPoints API:beXw0vx4-Iq2V-KF3J-cyGp-8bVRxwdp4oR2:15
+2024/11/07 20:53:05 INFO: process_receipts.go:17 - Called process receipt API
+2024/11/07 20:53:05 INFO: process_receipts.go:48 - Points Callulated : okx8aQjq-UoqZ-4ZaD-vnAJ-uO8EphB4VmwP : 31
+2024/11/07 20:53:05 INFO: process_receipts.go:64 - Returned process receipt API : okx8aQjq-UoqZ-4ZaD-vnAJ-uO8EphB4VmwP
+2024/11/07 20:53:05 INFO: get_points.go:17 - Called getPoints API:okx8aQjq-UoqZ-4ZaD-vnAJ-uO8EphB4VmwP
+2024/11/07 20:53:05 INFO: get_points.go:32 - Returned getPoints API:okx8aQjq-UoqZ-4ZaD-vnAJ-uO8EphB4VmwP:31
+2024/11/07 22:01:21 INFO: process_receipts.go:17 - Called processReceipt API
+2024/11/07 22:01:21 ERROR: process_receipts.go:30 - purchaseDate must be in YYYY-MM-DD format
+2024/11/07 22:01:21 INFO: process_receipts.go:17 - Called processReceipt API
+2024/11/07 22:01:21 INFO: process_receipts.go:48 - Points Callulated : iixteiRZ-6Dk3-x0ah-dplN-Po500lqveaSO : 28
+2024/11/07 22:01:21 INFO: process_receipts.go:64 - Returned processReceipt API : iixteiRZ-6Dk3-x0ah-dplN-Po500lqveaSO
+2024/11/07 22:01:21 INFO: get_points.go:17 - Called getPoints API:iixteiRZ-6Dk3-x0ah-dplN-Po500lqveaSO
+2024/11/07 22:01:21 INFO: get_points.go:32 - Returned getPoints API : iixteiRZ-6Dk3-x0ah-dplN-Po500lqveaSO : 28
+2024/11/07 22:01:21 INFO: process_receipts.go:17 - Called processReceipt API
+2024/11/07 22:01:21 INFO: process_receipts.go:48 - Points Callulated : Hg7K30Na-v7N9-Sve0-sY4B-DzAn2RakQ7dK : 109
+2024/11/07 22:01:21 INFO: process_receipts.go:64 - Returned processReceipt API : Hg7K30Na-v7N9-Sve0-sY4B-DzAn2RakQ7dK
+2024/11/07 22:01:21 INFO: get_points.go:17 - Called getPoints API:Hg7K30Na-v7N9-Sve0-sY4B-DzAn2RakQ7dK
+2024/11/07 22:01:21 INFO: get_points.go:32 - Returned getPoints API : Hg7K30Na-v7N9-Sve0-sY4B-DzAn2RakQ7dK : 109
+2024/11/07 22:01:21 INFO: process_receipts.go:17 - Called processReceipt API
+2024/11/07 22:01:21 INFO: process_receipts.go:48 - Points Callulated : z1Do1IE8-WWg6-LDmJ-3D6x-0j0jC0q9QJHD : 15
+2024/11/07 22:01:21 INFO: process_receipts.go:64 - Returned processReceipt API : z1Do1IE8-WWg6-LDmJ-3D6x-0j0jC0q9QJHD
+2024/11/07 22:01:21 INFO: get_points.go:17 - Called getPoints API:z1Do1IE8-WWg6-LDmJ-3D6x-0j0jC0q9QJHD
+2024/11/07 22:01:21 INFO: get_points.go:32 - Returned getPoints API : z1Do1IE8-WWg6-LDmJ-3D6x-0j0jC0q9QJHD : 15
+2024/11/07 22:01:21 INFO: process_receipts.go:17 - Called processReceipt API
+2024/11/07 22:01:21 INFO: process_receipts.go:48 - Points Callulated : XDSn8Fd6-eOq4-5g6V-OZpr-gv74zj1vRuh3 : 31
+2024/11/07 22:01:21 INFO: process_receipts.go:64 - Returned processReceipt API : XDSn8Fd6-eOq4-5g6V-OZpr-gv74zj1vRuh3
+2024/11/07 22:01:21 INFO: get_points.go:17 - Called getPoints API:XDSn8Fd6-eOq4-5g6V-OZpr-gv74zj1vRuh3
+2024/11/07 22:01:21 INFO: get_points.go:32 - Returned getPoints API : XDSn8Fd6-eOq4-5g6V-OZpr-gv74zj1vRuh3 : 31
+2024/11/07 22:01:21 INFO: process_receipts.go:17 - Called processReceipt API
+2024/11/07 22:01:21 ERROR: process_receipts.go:30 - total does not match the sum of item prices
+2024/11/07 22:09:17 INFO: process_receipts.go:17 - Called processReceipt API
+2024/11/07 22:09:17 INFO: process_receipts.go:48 - Points Callulated : UL0Gw7fW-OXr0-ugra-NeAp-phLYmtUByBjO : 28
+2024/11/07 22:09:17 INFO: process_receipts.go:64 - Returned processReceipt API : UL0Gw7fW-OXr0-ugra-NeAp-phLYmtUByBjO
+2024/11/07 22:09:17 INFO: get_points.go:17 - Called getPoints API:UL0Gw7fW-OXr0-ugra-NeAp-phLYmtUByBjO
+2024/11/07 22:09:17 INFO: get_points.go:32 - Returned getPoints API : UL0Gw7fW-OXr0-ugra-NeAp-phLYmtUByBjO : 28
+2024/11/07 22:09:17 INFO: process_receipts.go:17 - Called processReceipt API
+2024/11/07 22:09:17 INFO: process_receipts.go:48 - Points Callulated : W36ynwTn-AGfC-vPm1-obJt-fpp37l9USyJE : 15
+2024/11/07 22:09:17 INFO: process_receipts.go:64 - Returned processReceipt API : W36ynwTn-AGfC-vPm1-obJt-fpp37l9USyJE
+2024/11/07 22:09:17 INFO: get_points.go:17 - Called getPoints API:W36ynwTn-AGfC-vPm1-obJt-fpp37l9USyJE
+2024/11/07 22:09:17 INFO: get_points.go:32 - Returned getPoints API : W36ynwTn-AGfC-vPm1-obJt-fpp37l9USyJE : 15
+2024/11/07 22:09:17 INFO: process_receipts.go:17 - Called processReceipt API
+2024/11/07 22:09:17 ERROR: process_receipts.go:30 - purchaseDate must be in YYYY-MM-DD format
+2024/11/07 22:09:17 INFO: process_receipts.go:17 - Called processReceipt API
+2024/11/07 22:09:17 INFO: process_receipts.go:48 - Points Callulated : gj0V9P4F-txYx-omtp-EEb2-TmbOShCyNQ9R : 28
+2024/11/07 22:09:17 INFO: process_receipts.go:64 - Returned processReceipt API : gj0V9P4F-txYx-omtp-EEb2-TmbOShCyNQ9R
+2024/11/07 22:09:17 INFO: process_receipts.go:17 - Called processReceipt API
+2024/11/07 22:09:17 ERROR: process_receipts.go:30 - total must match currency format: xx.xx
+2024/11/07 22:09:17 INFO: process_receipts.go:17 - Called processReceipt API
+2024/11/07 22:09:17 ERROR: process_receipts.go:30 - price of each item must match currency format: xx.xx
+2024/11/07 22:09:17 INFO: process_receipts.go:17 - Called processReceipt API
+2024/11/07 22:09:17 INFO: process_receipts.go:48 - Points Callulated : bXn0RNqI-5vWt-2jh4-1wzI-LTKdVHaGewZT : 109
+2024/11/07 22:09:17 INFO: process_receipts.go:64 - Returned processReceipt API : bXn0RNqI-5vWt-2jh4-1wzI-LTKdVHaGewZT
+2024/11/07 22:09:17 INFO: get_points.go:17 - Called getPoints API:bXn0RNqI-5vWt-2jh4-1wzI-LTKdVHaGewZT
+2024/11/07 22:09:17 INFO: get_points.go:32 - Returned getPoints API : bXn0RNqI-5vWt-2jh4-1wzI-LTKdVHaGewZT : 109
+2024/11/07 22:09:17 INFO: process_receipts.go:17 - Called processReceipt API
+2024/11/07 22:09:17 INFO: process_receipts.go:48 - Points Callulated : O7XgSPOT-CWik-wbdT-qNyj-IRwYB6bOn3bO : 31
+2024/11/07 22:09:17 INFO: process_receipts.go:64 - Returned processReceipt API : O7XgSPOT-CWik-wbdT-qNyj-IRwYB6bOn3bO
+2024/11/07 22:09:17 INFO: get_points.go:17 - Called getPoints API:O7XgSPOT-CWik-wbdT-qNyj-IRwYB6bOn3bO
+2024/11/07 22:09:17 INFO: get_points.go:32 - Returned getPoints API : O7XgSPOT-CWik-wbdT-qNyj-IRwYB6bOn3bO : 31
+2024/11/07 22:09:17 INFO: process_receipts.go:17 - Called processReceipt API
+2024/11/07 22:09:17 ERROR: process_receipts.go:30 - total does not match the sum of item prices
+2024/11/07 22:11:00 INFO: process_receipts.go:17 - Called processReceipt API
+2024/11/07 22:11:00 ERROR: process_receipts.go:30 - total must match currency format: xx.xx
+2024/11/07 22:11:00 INFO: process_receipts.go:17 - Called processReceipt API
+2024/11/07 22:11:00 ERROR: process_receipts.go:30 - price of each item must match currency format: xx.xx
+2024/11/07 22:11:00 INFO: process_receipts.go:17 - Called processReceipt API
+2024/11/07 22:11:00 INFO: process_receipts.go:48 - Points Callulated : tktsKCXe-cwyl-y0rK-NB3m-9NI24mCsYgD6 : 28
+2024/11/07 22:11:00 INFO: process_receipts.go:64 - Returned processReceipt API : tktsKCXe-cwyl-y0rK-NB3m-9NI24mCsYgD6
+2024/11/07 22:11:00 INFO: process_receipts.go:17 - Called processReceipt API
+2024/11/07 22:11:00 INFO: process_receipts.go:48 - Points Callulated : Icr09WAY-wQPJ-z1IG-KWe1-JPqSyZ9av08u : 109
+2024/11/07 22:11:00 INFO: process_receipts.go:64 - Returned processReceipt API : Icr09WAY-wQPJ-z1IG-KWe1-JPqSyZ9av08u
+2024/11/07 22:11:00 INFO: get_points.go:17 - Called getPoints API:Icr09WAY-wQPJ-z1IG-KWe1-JPqSyZ9av08u
+2024/11/07 22:11:00 INFO: get_points.go:32 - Returned getPoints API : Icr09WAY-wQPJ-z1IG-KWe1-JPqSyZ9av08u : 109
+2024/11/07 22:11:00 INFO: process_receipts.go:17 - Called processReceipt API
+2024/11/07 22:11:00 INFO: process_receipts.go:48 - Points Callulated : mPgLKEZj-w674-pY9S-JGsd-tXIRc77KJ7NZ : 15
+2024/11/07 22:11:00 INFO: process_receipts.go:64 - Returned processReceipt API : mPgLKEZj-w674-pY9S-JGsd-tXIRc77KJ7NZ
+2024/11/07 22:11:00 INFO: get_points.go:17 - Called getPoints API:mPgLKEZj-w674-pY9S-JGsd-tXIRc77KJ7NZ
+2024/11/07 22:11:00 INFO: get_points.go:32 - Returned getPoints API : mPgLKEZj-w674-pY9S-JGsd-tXIRc77KJ7NZ : 15
+2024/11/07 22:11:00 INFO: process_receipts.go:17 - Called processReceipt API
+2024/11/07 22:11:00 INFO: process_receipts.go:48 - Points Callulated : bEeSKk63-Knof-LFjl-kwBo-1OKCrWe5I6Nh : 31
+2024/11/07 22:11:00 INFO: process_receipts.go:64 - Returned processReceipt API : bEeSKk63-Knof-LFjl-kwBo-1OKCrWe5I6Nh
+2024/11/07 22:11:00 INFO: get_points.go:17 - Called getPoints API:bEeSKk63-Knof-LFjl-kwBo-1OKCrWe5I6Nh
+2024/11/07 22:11:00 INFO: get_points.go:32 - Returned getPoints API : bEeSKk63-Knof-LFjl-kwBo-1OKCrWe5I6Nh : 31
+2024/11/07 22:11:00 INFO: process_receipts.go:17 - Called processReceipt API
+2024/11/07 22:11:00 ERROR: process_receipts.go:30 - total does not match the sum of item prices
+2024/11/07 22:11:00 INFO: process_receipts.go:17 - Called processReceipt API
+2024/11/07 22:11:00 ERROR: process_receipts.go:30 - purchaseDate must be in YYYY-MM-DD format
+2024/11/07 22:11:00 INFO: process_receipts.go:17 - Called processReceipt API
+2024/11/07 22:11:00 INFO: process_receipts.go:48 - Points Callulated : 5I2s8v0J-w8AH-1Xe7-P6sw-XnVJd1H8t7Cd : 28
+2024/11/07 22:11:00 INFO: process_receipts.go:64 - Returned processReceipt API : 5I2s8v0J-w8AH-1Xe7-P6sw-XnVJd1H8t7Cd
+2024/11/07 22:11:00 INFO: get_points.go:17 - Called getPoints API:5I2s8v0J-w8AH-1Xe7-P6sw-XnVJd1H8t7Cd
+2024/11/07 22:11:00 INFO: get_points.go:32 - Returned getPoints API : 5I2s8v0J-w8AH-1Xe7-P6sw-XnVJd1H8t7Cd : 28
+2024/11/07 22:11:20 INFO: process_receipts.go:17 - Called processReceipt API
+2024/11/07 22:11:20 INFO: process_receipts.go:48 - Points Callulated : 3aOFc8uD-tWmy-uHVI-Tnqh-XxhVOW3ISGMc : 31
+2024/11/07 22:11:20 INFO: process_receipts.go:64 - Returned processReceipt API : 3aOFc8uD-tWmy-uHVI-Tnqh-XxhVOW3ISGMc
+2024/11/07 22:11:20 INFO: get_points.go:17 - Called getPoints API:3aOFc8uD-tWmy-uHVI-Tnqh-XxhVOW3ISGMc
+2024/11/07 22:11:20 INFO: get_points.go:32 - Returned getPoints API : 3aOFc8uD-tWmy-uHVI-Tnqh-XxhVOW3ISGMc : 31
+2024/11/07 22:11:20 INFO: process_receipts.go:17 - Called processReceipt API
+2024/11/07 22:11:20 ERROR: process_receipts.go:30 - total does not match the sum of item prices
+2024/11/07 22:11:20 INFO: process_receipts.go:17 - Called processReceipt API
+2024/11/07 22:11:20 ERROR: process_receipts.go:30 - purchaseTime must be in HH:MM 24-hour format
+2024/11/07 22:11:20 INFO: process_receipts.go:17 - Called processReceipt API
+2024/11/07 22:11:20 ERROR: process_receipts.go:30 - price of each item must match currency format: xx.xx
+2024/11/07 22:11:20 INFO: process_receipts.go:17 - Called processReceipt API
+2024/11/07 22:11:20 INFO: process_receipts.go:48 - Points Callulated : ynmbTv2m-cyoS-8qss-VJFj-ONmdalTYSZed : 15
+2024/11/07 22:11:20 INFO: process_receipts.go:64 - Returned processReceipt API : ynmbTv2m-cyoS-8qss-VJFj-ONmdalTYSZed
+2024/11/07 22:11:20 INFO: get_points.go:17 - Called getPoints API:ynmbTv2m-cyoS-8qss-VJFj-ONmdalTYSZed
+2024/11/07 22:11:20 INFO: get_points.go:32 - Returned getPoints API : ynmbTv2m-cyoS-8qss-VJFj-ONmdalTYSZed : 15
+2024/11/07 22:11:20 INFO: process_receipts.go:17 - Called processReceipt API
+2024/11/07 22:11:20 INFO: process_receipts.go:48 - Points Callulated : TS9vGHx2-g0Vb-A3ou-1OCa-Nxy5ghdRPKre : 109
+2024/11/07 22:11:20 INFO: process_receipts.go:64 - Returned processReceipt API : TS9vGHx2-g0Vb-A3ou-1OCa-Nxy5ghdRPKre
+2024/11/07 22:11:20 INFO: get_points.go:17 - Called getPoints API:TS9vGHx2-g0Vb-A3ou-1OCa-Nxy5ghdRPKre
+2024/11/07 22:11:20 INFO: get_points.go:32 - Returned getPoints API : TS9vGHx2-g0Vb-A3ou-1OCa-Nxy5ghdRPKre : 109
+2024/11/07 22:11:20 INFO: process_receipts.go:17 - Called processReceipt API
+2024/11/07 22:11:20 ERROR: process_receipts.go:30 - purchaseDate must be in YYYY-MM-DD format
+2024/11/07 22:11:20 INFO: process_receipts.go:17 - Called processReceipt API
+2024/11/07 22:11:20 ERROR: process_receipts.go:30 - total must match currency format: xx.xx
+2024/11/07 22:11:20 INFO: process_receipts.go:17 - Called processReceipt API
+2024/11/07 22:11:20 INFO: process_receipts.go:48 - Points Callulated : Exd6E2lR-LAlz-gluQ-5v8R-ESRa55FQrmmb : 28
+2024/11/07 22:11:20 INFO: process_receipts.go:64 - Returned processReceipt API : Exd6E2lR-LAlz-gluQ-5v8R-ESRa55FQrmmb
+2024/11/07 22:11:20 INFO: get_points.go:17 - Called getPoints API:Exd6E2lR-LAlz-gluQ-5v8R-ESRa55FQrmmb
+2024/11/07 22:11:20 INFO: get_points.go:32 - Returned getPoints API : Exd6E2lR-LAlz-gluQ-5v8R-ESRa55FQrmmb : 28
+2024/11/07 22:11:41 INFO: main.go:17 - Application Started
+2024/11/07 22:11:41 INFO: main.go:23 - Routes Initialized
+2024/11/07 22:11:52 INFO: process_receipts.go:17 - Called processReceipt API
+2024/11/07 22:11:52 ERROR: process_receipts.go:30 - purchaseTime must be in HH:MM 24-hour format
