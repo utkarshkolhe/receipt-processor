@@ -12,13 +12,12 @@ Containarized Go API for handling customer purchase reciepts.
 2. Execute:
 ```
 docker build . -t go-containerized:latest
-```
-(can provide any name in place of go-containerized ).
-3. Execute:
-```
 docker run -e PORT=9000 -p 9000:9000 go-containerized:latest
 ```
-(can provide any port number in place of 9000.<br> `docker run -e PORT=YOURPORT -p YOURPORT:9000 go-containerized:latest`).
+
+Can provide any name in place of go-containerized.<br>
+Can provide any port number in place of 9000.<br>
+`docker run -e PORT=YOURPORT -p YOURPORT:9000 YOURNAME:latest`
 
 The API is up and running.
 
