@@ -26,33 +26,42 @@ docker run -e PORT=PORTNUMBER -p PORTNUMBER:9000 CONTAINERNAME:latest
 ```
 
 
-## Input validation
-Input Validation implemented in [Item_Model](/api/models/item_model.go) and [Receipt_Model](/api/models/receipt_model.go).
-Types of input validation done:
-1. All fields (retailer, shortDescription, purchaseTime, purchaseDate, price, etc) follow their specified regex pattern as defined in [API_YML](/api.yml) . Can be updated in [Constants](/api/config/constants.go)
-2. total of receipts equals sum of prices of items in Receipts
-3. Receipt has MinItemsInReceipt(default=1) items. Can be updated in [Constants](/api/config/constants.go)
-
-## Testing
-Testing automatically done while building docker image.
-If required, testing in Go can be manually triggered by running:
-```
-go test ./...
-```
-### Unit testing
-Unit tests written for three modules in [ReceiptManagerTest](/api/db/receipt_manager_test.go), [IDGeneratorTest](/api/utils/id_generator_test.go) and [PointsCalculator](/api/utils/points_calculator_test.go)
-
-### End to End testing
-End-To-End testing implemented in [MainTest](/main_test.go).
-Evaluates on 4 valid test cases and 5 invalid test cases [TestCases](/test/).
-
-### Manual testing
-You can send any other POST and GET requests on `localhost:9000/receipts/process` and `localhost:9000/receipts/__ID__/points` respectively.
 
 ## Design
 
 ![Data_Model](/design_diagram.png)
 The Diagram above shows high level view of how the API components interact.
+
+### Input validation
+Input Validation implemented in [Item_Model](/api/models/item_model.go) and [Receipt_Model](/api/models/receipt_model.go). <br>
+Types of input validation done:
+1. All fields (retailer, shortDescription, purchaseTime, purchaseDate, price, etc) follow their specified regex pattern as defined in [API_YML](/api.yml) . Can be updated in [Constants](/api/config/constants.go)
+2. total of receipts equals sum of prices of items in Receipts
+3. Receipt has at least MinItemsInReceipt(default=1) items. Can be updated in [Constants](/api/config/constants.go)
+
+### Testing
+Testing automatically done while building docker image.<br>
+If required, testing in Go can be manually triggered by running:
+```
+go test ./...
+```
+#### Unit testing
+Unit tests written for three modules in [ReceiptManagerTest](/api/db/receipt_manager_test.go), [IDGeneratorTest](/api/utils/id_generator_test.go) and [PointsCalculator](/api/utils/points_calculator_test.go)
+
+#### End to End testing
+End-To-End testing implemented in [MainTest](/main_test.go).
+Evaluates on 4 valid test cases and 5 invalid test cases [TestCases](/test/).
+
+#### Manual testing
+You can send any other POST and GET requests on `localhost:9000/receipts/process` and `localhost:9000/receipts/__ID__/points` respectively.
+
+### Logging
+Logger is implemented in [Logger](/api/logger/logger.go)<br>
+Logger performs logging on both console as well as writing to a file.<br>
+Console or File Logging can be toggled by editing ConsoleLog and FileLog in [Constants](/api/config/constants.go) <br>
+Example of a log file: [LogFile](/app.log)
+
+
 ### File Structure
 ```
 fetch-receipt-processor/
