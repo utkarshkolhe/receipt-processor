@@ -14,14 +14,16 @@ Containarized Go API for handling customer purchase reciepts.
 docker build . -t go-containerized:latest
 docker run -e PORT=9000 -p 9000:9000 go-containerized:latest
 ```
+The API is up and running!!
 
-Can provide any name in place of go-containerized.<br>
-Can provide any port number in place of 9000.<br>
+<br>
+<br>
+Can provide any name in place of go-containerized and any port number in place of 9000.<br>
 ```
 docker build . -t CONTAINERNAME:latest
 docker run -e PORT=PORTNUMBER -p PORTNUMBER:9000 CONTAINERNAME:latest
 ```
-The API is up and running.
+
 
 ## Input validation
 Input Validation implemented in item_model and receipt_model.
